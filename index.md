@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Bohdan Turchyk
+Backend Software engineer <br>
 
-You can use the [editor on GitHub](https://github.com/thatside/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](mailto:harammin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/thatside/) / [GitHub](https://github.com/thatside/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Employment history
 
-### Markdown
+**Backend/Fullstack Software Engineer, Outsourcing** @ [Zaraffasoft](http://zaraffasoft.com/) _(Aug 2016 - Jan 2021)_ <br>
+Worked in e-commerce, e-learning, travel- and prop-tech domains with full immersion in business problems and needs.
+- Developed various web services both alone and as part of a team
+- Worked as lead/managing engineer in medium-scale SaaS e-learning project  
+- Implemented business logic and infrastructure microservices working as a part of international team of 10 developers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Web Developer** @ Freelance _(Jan 2014 - Jun 2016)_ <br>
+Various tasks in small-scope projects using PHP (Symfony, Slim, Sylex) and Javascript (AngularJS)
 
-```markdown
-Syntax highlighted code block
+## Skills
+ - ★★★★★ PHP
+ - ★★★★☆ Symfony
+ - ★★★★☆ Golang
+ - ★★★☆☆ Python
+ - ★★★☆☆ JavaScript
+ - ★★★☆☆ Typescript
+ - ★★★★☆ Docker
+ - ★★★☆☆ SQL
+ - ★★★☆☆ RabbitMQ
+ - ★★★☆☆ Vue.js
+ - ★★☆☆☆ ReactJS
+ - ★★★☆☆ Solution design
+ - ★★★☆☆ Domain-driven development
 
-# Header 1
-## Header 2
-### Header 3
+## Languages
 
-- Bulleted
-- List
+**English**: B2.2 <br>
+**German**: A2.2 <br>
+**Ukrainian**: Native <br>
+**Russian**: Native
 
-1. Numbered
-2. List
+## Education
 
-**Bold** and _Italic_ and `Code` text
+**Master's degree** in Software Engineering<br>
+Kryvyi Rih Technical University, _(2016 - 2018)_
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thatside/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor's degree** in Software Engineering<br>
+Kryvyi Rih Technical University, _(2016 - 2018)_
