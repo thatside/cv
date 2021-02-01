@@ -3,6 +3,15 @@ Backend Software engineer <br>
 
 [Email](mailto:harammin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/thatside/) / [GitHub](https://github.com/thatside/)
 
+## Profile
+Backend/Fullstack Software Engineer with more than 6 years of professional experience in creating modern, elaborate and useful applications. 
+
+Interested in using new practices , tools and languages in my work.
+Prefer to take responsibility over the project I am working and push it beyond the limits. Good in team work, but not afraid to work on my own.
+
+Looking for backend/infrastructure-focused positions using Symfony, Golang or Kotlin (as migration target).
+Not interested in frontend-only job offers and Laravel framework.
+
 ## Employment history
 
 **Backend/Fullstack Software Engineer, Outsourcing** @ [Zaraffasoft](http://zaraffasoft.com/) _(Aug 2016 - Jan 2021)_ <br>
@@ -28,6 +37,8 @@ Various tasks in small-scope projects using PHP (Symfony, Slim, Sylex) and Javas
  - ★★☆☆☆ ReactJS
  - ★★★☆☆ Solution design
  - ★★★☆☆ Domain-driven development
+ - ★★★☆☆ CI/CD
+ - ★★★☆☆ Microservice architecture
 
 ## Languages
 
