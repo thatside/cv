@@ -14,7 +14,9 @@ Not interested in frontend-only job offers and Laravel framework.
 
 ## Employment history
 
-**Backend/Fullstack Software Engineer, Outsourcing** @ [Zaraffasoft](http://zaraffasoft.com/) _(Aug 2016 - Jan 2021)_ <br>
+**Senior Backend Developer** @ [Spryker](https://spryker.com/) _(Feb 2021 - now)_ <br>
+
+**Backend/Fullstack Software Engineer, Outsourcing** @ [Zaraffasoft](https://zaraffasoft.com/) _(Aug 2016 - Jan 2021)_ <br>
 Worked in e-commerce, e-learning, travel- and prop-tech domains with full immersion in business problems and needs.
 - Developed various web services both alone and as part of a team
 - Worked as lead/managing engineer in medium-scale SaaS e-learning project  
