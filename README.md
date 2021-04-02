@@ -15,6 +15,9 @@ Not interested in frontend-only job offers and Laravel framework.
 ## Employment history
 
 **Senior Backend Developer** @ [Spryker](https://spryker.com/) _(Feb 2021 - now)_ <br>
+Working as a part of big team to implement next-level E-Commerce solution.
+ - Worked on new and existing core features
+ - Participated in implementation and integration of Spryker in customer projects as a consultant
 
 **Backend/Fullstack Software Engineer, Outsourcing** @ [Zaraffasoft](https://zaraffasoft.com/) _(Aug 2016 - Jan 2021)_ <br>
 Worked in e-commerce, e-learning, travel- and prop-tech domains with full immersion in business problems and needs.
